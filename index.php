@@ -23,14 +23,13 @@
   <body>
     <header class="top">
       <img id="headerLogo"
-           src="images/headerLogo.gif" alt="Kriyatrade header logo image">
+           src="images/headerLogo.gif" alt="Kriyalabs logo image">
       <img id="headerSlogan"
-          src="images/headerSlogan.gif" alt="Helping you with your daily trade">
+          src="images/headerSlogan.gif" alt="Forever in search">
     </header>
 
     <nav>
     <ul>
-        <li class="selected"><a href="http://kriyalabs.in">HOME</a></li>
         <li><a href="">BLOG</a></li>
         <li><a href="">TRIPS</a></li>
         <li><a href="">MYTHOLOGY</a></li>
@@ -58,35 +57,17 @@
 
     <aside>
           
-            <h1>My study links</h1>
+            <h1> Quotes that inspire </h1>
             <p>
-            <h2>Scriptaculous</h2>
-            <list>
-            <li><a href="scriptaculous/scriptaculous-js-1.9.0/test/run_unit_tests.html"> scriptaculous unit tests </a> </li>
-            <li><a href="scriptaculous/scriptaculous-js-1.9.0/test/run_functional_tests.html"> scriptaculous functional tests </a> </li>
+            <h2> Bhagavadgita </h2>
             </p>
 
             <p>
-            <h2>Prototype</h2>
-            <list>
-            <li><a href="prototype/test/browser.html"> prototype tests browser </a></li>
-            <li><a href="prototype/test/console.html"> prototype test console </a></li>
+            <h2> Vedas </h2>
             </p>
 
             <p>
-            <h2>HTML CSS</h2>
-            <list>
-            <li><a href="./htmlcss/chapter4/buzz/index.html">4/buzz</a></li>
-            <li><a href="./htmlcss/chapter4/starbuzz/index.html">4/starbuzz</a></li>
-            <li><a href="./htmlcss/chapter12/starbuzz/index.html">12/starbuzz</a></li>
-            <li><a href="./htmlcss/chapter11/tabledisplay/index.html">11/tabledisplay</a></li>
-            <li><a href="./htmlcss/chapter11/starbuzz/index.html">11/starbuzz</a></li>
-            <li><a href="./htmlcss/chapter11/starbuzz-complete/index.html">11/starbuzz-complete</a></li>
-            <li><a href="./htmlcss/chapter11/absolute/index.html">11/absolute</a></li>
-            <li><a href="./htmlcss/chapter14/starbuzz/index.html">14/starbuzz</a></li>
-            <li><a href="./htmlcss/chapter1/starbuzz/index.html">1/starbuzz</a></li>
-            <li><a href="./htmlcss/chapter5/mypod/index.html">5/mypod</a></li>
-            </list>
+            <h2> Kannada vachanas and dasa sahitya</h2>
             </p>
     </aside>
     </div> <!-- tableRow -->
