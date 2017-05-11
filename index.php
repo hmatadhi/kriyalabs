@@ -42,9 +42,9 @@
     <section id="projects">
             <h1>My projects</h1>
             <list>
-            <li><a href="kriyaTrade/php/index.php"> Kriya Trade  </a></li>
-            <li><a href="labgenie/index.php"> Labgenie  </a></li>
-            <li><a href="dms/index.php"> DocMan  </a></li>
+            <li><a href="../kriyaTrade/php/index.php"> Kriya Trade  </a></li>
+            <li><a href="../labgenie/index.php"> Labgenie  </a></li>
+            <li><a href="../dms/index.php"> DocMan  </a></li>
             </list>
     </section>
     <section id="main">
